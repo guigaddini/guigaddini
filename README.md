@@ -1,9 +1,9 @@
 <!-- Apresentação -->
 <h1>Hi there, I'm Gui :)</h1>
-<br>
 
-<!-- GitHub Stats -->
-![Guilherme G.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=guigaddini&show_icons=true&theme=tokyonight)
+Pron.: **He / Him** | I'm a Front-end dev. student. | Also an actor/musician <br>
+I speak **English**, **Portuguese** (and I'm currently learning **Spanish**)
+
 
 <!-- Skills -->
  <div style="display: inline_block"><br>
@@ -22,3 +22,10 @@
   <a href = "mailto:guilhermegaddini@duck.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     
   </div>
+  
+  ##
+  
+
+<!-- GitHub Stats -->
+
+![Guilherme G.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=guigaddini&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&count_private=true)
