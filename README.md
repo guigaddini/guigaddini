@@ -1,17 +1,21 @@
 <!-- Apresentação -->
+<div style="display: inline_block"><br>
+
 <h1>Hi there, I'm Gui :)</h1>
+   <img align="right" alt="This is me" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/78987047?v=4?width=676&height=676">
+<p>He/Him | I'm a Front-end dev. student</p>
+<p>Also an Actor/Musician</p></p>
+<p>I speak English, Portuguese (and I'm currently studying Spanish).</p>
 
-Pron.: **He / Him** | I'm a Front-end dev. student. | Also an actor/musician <br>
-I speak **English**, **Portuguese** (and I'm currently learning **Spanish**)
-
+</div>
 
 <!-- Skills -->
  <div style="display: inline_block"><br>
      <h2>Techs</h2>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="center" alt="HTML5" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
+  <img align="center" alt="CSS3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
+ <img align="center" alt="JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  
   </div>
 
 <!-- Social Medias -->
@@ -25,7 +29,5 @@ I speak **English**, **Portuguese** (and I'm currently learning **Spanish**)
   
   ##
   
-
 <!-- GitHub Stats -->
-
-![Guilherme G.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=guigaddini&show_icons=true&theme=tokyonight&hide=prs,issues,contribs&count_private=true)
+![Guilherme G.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=guigaddini&show_icons=true&theme=tokyonight)
