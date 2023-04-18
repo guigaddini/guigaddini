@@ -30,5 +30,5 @@
   
   ##
   
-<!-- GitHub Stats -->
-![Guilherme G.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=guigaddini&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+<!-- GitHub Stats
+![Guilherme G.'s GitHub stats](https://github-readme-stats.vercel.app/api?username=guigaddini&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)  -->
