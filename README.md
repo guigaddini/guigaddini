@@ -2,7 +2,7 @@
 <div style="display: inline_block"><br>
 
 <h1>Hi there, I'm Gui :)</h1>
-   <img align="right" alt="This is me" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/78987047?v=4?width=676&height=676">
+   <img align="right" alt="This is me" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202305/1473879_ocWD26Cq.png">
 <p>He/Him | I'm a Front-end dev. student</p>
 <p>Also an Actor/Musician</p></p>
 <p>I speak English, Portuguese (and I'm currently studying Spanish).</p>
