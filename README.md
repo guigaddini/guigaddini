@@ -5,7 +5,7 @@
    <img align="right" alt="This is me" height="150" style="border-radius:50px;" src="https://cdn.picrew.me/shareImg/org/202305/1473879_ocWD26Cq.png">
 <p>He/Him | I'm a Front-end dev. student</p>
 <p>Also an Actor/Musician</p></p>
-<p>I speak *English*, falo *Português* y estoy estudiando el *Castellano*!.</p>
+<p>I speak English, falo Português y estoy estudiando el Castellano!.</p>
 
 </div>
 
