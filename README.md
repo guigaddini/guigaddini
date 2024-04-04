@@ -22,6 +22,7 @@
     <img alt="CSS3" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
     <img alt="JS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
     <img alt="P5.Js" height="35" width="45" src="https://p5js.org/assets/img/p5js.svg"/>
+    <img alt="Python" height="35" widht="45" scr="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg"/>
   </div>
 
   <!-- Social Medias -->
