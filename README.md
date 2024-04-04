@@ -1,6 +1,6 @@
 <!-- Apresentação -->
 <div>
-  <h1>Hi there, I'm Gui <img alt="This is me" height="80" style="border-radius:50px;" src="https://drive.google.com/file/d/1tb-juNib1pTkXI9EJl5uOuNY9rVaiqjr/view?usp=drive_link"></h1>
+  <h1>Hi there, I'm Gui <img alt="This is me" height="80" style="border-radius:50px;" src="https://i.postimg.cc/mDHg7PgJ/1473879-oc-WD26-Cq.png"></h1>
   <p>He/Him | Aspiring Front-end Developer with a passion for crafting delightful user experiences.</p>
   <p>Also, I'm an Actor and Musician, blending creativity with technical skills to bring ideas to life.</p>
   <p>Fluent in English, falo Português, and estoy estudiando el Castellano!</p>
