@@ -7,11 +7,10 @@
     src="https://i.ibb.co/r5VCN9N/1473879-oc-WD26-Cq.png"
   >
   <p>
-    Hi! I’m a front-end developer in the making, driven by a love for creating meaningful and enjoyable user experiences.
+    Hi! I’m a front-end developer student.
   </p>
   <p>
-    When I’m not diving into code, I’m embracing my artistic side as an actor and musician, blending creativity and technical know-how to bring ideas to life.
-  </p>
+    I'm also an actor / musician.  </p>
   <p>
     Fluent in English, falo Português, and estoy estudiando el Castellano!
   </p>
